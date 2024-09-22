@@ -19,7 +19,5 @@ match(operation):
     case _:
         print("Invalid input")
 
-if(operation == '/' and num2 == 0):
-    print("Cannot divide by zero.")
         
     
